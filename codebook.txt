@@ -1,0 +1,81 @@
+activity_name   - Name of activity being performed by subject	
+subject   - Unique subjects that participated in study (1:30)	
+timeBodyAccel.mean.X 	- average by activity/subject of average time domain signal for body acceleration in X coordinates 
+timeBodyAccel.mean.Y 	- average by activity/subject of average time domain signal for body acceleration in Y coordinates 
+timeBodyAccel.mean.Z	- average by activity/subject of average time domain signal for body acceleration in Z coordinates 
+timeGravityAccel.mean.X 	- average by activity/subject of average time domain signal for gravity acceleration in X coordinates 
+timeGravityAccel.mean.Y 	- average by activity/subject of average time domain signal for gravity acceleration in Y coordinates 
+timeGravityAccel.mean.Z	- average by activity/subject of average time domain signal for gravity acceleration in Z coordinates 
+timeBodyAccelJerk.mean.X	- average by activity/subject of average time domain signal for body acceleration jerk in X coordinates 
+timeBodyAccelJerk.mean.Y	- average by activity/subject of average time domain signal for body acceleration jerk in Y coordinates 
+timeBodyAccelJerk.mean.Z	- average by activity/subject of average time domain signal for body acceleration jerk in Z coordinates 
+timeBodyGyro.mean.X	- average by activity/subject of average time domain signal for body gyro in X coordinates 
+timeBodyGyro.mean.Y	- average by activity/subject of average time domain signal for body gyro in Y coordinates 
+timeBodyGyro.mean.Z	- average by activity/subject of average time domain signal for body gyro in Z coordinates 
+timeBodyGyroJerk.mean.X	- average by activity/subject of average time domain signal for body gyro jerk in X coordinates 
+timeBodyGyroJerk.mean.Y	- average by activity/subject of average time domain signal for body gyro jerk in Y coordinates 
+timeBodyGyroJerk.mean.Z	- average by activity/subject of average time domain signal for body gyro jerk in Z coordinates 
+timeBodyAccelMag.mean	- average by activity/subject of average time domain signal for body acceleration magnitude
+timeGravityAccelMag.mean	- average by activity/subject of average time domain signal for gravity acceleration magnitude 
+timeBodyAccelJerkMag.mean	- average by activity/subject of average time domain signal for body acceleration jerk magnitude 
+timeBodyGyroMag.mean	- average by activity/subject of average time domain signal for body gyro magnitude 
+timeBodyGyroJerkMag.mean	- average by activity/subject of average time domain signal for body gyro jerk magnitude 
+freqBodyAccel.mean.X	- average by activity/subject of average frequency domain signal for body acceleration in X coordinates 
+freqBodyAccel.mean.Y	- average by activity/subject of average frequency domain signal for body acceleration in Y coordinates 
+freqBodyAccel.mean.Z	- average by activity/subject of average frequency domain signal for body acceleration in Z coordinates 
+freqBodyAccel.meanFreq.X	- average by activity/subject of frequency average frequency domain signal for body acceleration in X coordinates 
+freqBodyAccel.meanFreq.Y	- average by activity/subject of frequency average frequency domain signal for body acceleration in Y coordinates 
+freqBodyAccel.meanFreq.Z	- average by activity/subject of frequency average frequency domain signal for body acceleration in Z coordinates 
+freqBodyAccelJerk.mean.X	- average by activity/subject of average frequency domain signal for body acceleration jerk in X coordinates 
+freqBodyAccelJerk.mean.Y	- average by activity/subject of average frequency domain signal for body acceleration jerk in Y coordinates 
+freqBodyAccelJerk.mean.Z	- average by activity/subject of average frequency domain signal for body acceleration jerk in Z coordinates 
+freqBodyAccelJerk.meanFreq.X	- average by activity/subject of frequency average frequency domain signal for body acceleration jerk in X coordinates 
+freqBodyAccelJerk.meanFreq.Y	- average by activity/subject of frequency average frequency domain signal for body acceleration jerk in Y coordinates 
+freqBodyAccelJerk.meanFreq.Z	- average by activity/subject of frequency average frequency domain signal for body acceleration jerk in Z coordinates 
+freqBodyGyro.mean.X	- average by activity/subject of average frequency domain signal for body gyro in X coordinates 
+freqBodyGyro.mean.Y	- average by activity/subject of average frequency domain signal for body gyro in Y coordinates 
+freqBodyGyro.mean.Z	- average by activity/subject of average frequency domain signal for body gyro in Z coordinates 
+freqBodyGyro.meanFreq.X	- average by activity/subject of frequency average frequency domain signal for body gyro in X coordinates 
+freqBodyGyro.meanFreq.Y	- average by activity/subject of frequency average frequency domain signal for body gyro in Y coordinates 
+freqBodyGyro.meanFreq.Z	- average by activity/subject of frequency average frequency domain signal for body gyro in Z coordinates 
+freqBodyAccelMag.mean	- average by activity/subject of average frequency domain signal for body acceleration magnitude
+freqBodyAccelMag.meanFreq	- average by activity/subject of frequency average frequency domain signal for body acceleration magnitude
+freqBodyAccelJerkMag.mean	- average by activity/subject of average frequency domain signal for body acceleration jerk magnitude 
+freqBodyAccelJerkMag.meanFreq	- average by activity/subject of frequency average frequency domain signal for body acceleration jerk magnitude 
+freqBodyGyroMag.mean	- average by activity/subject of average frequency domain signal for body gyro magnitude 
+freqBodyGyroMag.meanFreq	- average by activity/subject of frequency average frequency domain signal for body gyro magnitude 
+freqBodyGyroJerkMag.mean	- average by activity/subject of average frequency domain signal for body gyro jerk magnitude 
+freqBodyGyroJerkMag.meanFreq	- average by activity/subject of frequency average frequency domain signal for body gyro jerk magnitude 
+timeBodyAccel.std.X	- average by activity/subject of standard deviation of time domain signal for body acceleration in X coordinates 
+timeBodyAccel.std.Y	- average by activity/subject of standard deviation of time domain signal for body acceleration in Y coordinates 
+timeBodyAccel.std.Z	- average by activity/subject of standard deviation of time domain signal for body acceleration in Z coordinates 
+timeGravityAccel.std.X	- average by activity/subject of standard deviation of time domain signal for gravity acceleration in X coordinates 
+timeGravityAccel.std.Y	- average by activity/subject of standard deviation of time domain signal for gravity acceleration in Y coordinates 
+timeGravityAccel.std.Z	- average by activity/subject of standard deviation of time domain signal for gravity acceleration in Z coordinates 
+timeBodyAccelJerk.std.X	- average by activity/subject of standard deviation of time domain signal for body acceleration jerk in X coordinates 
+timeBodyAccelJerk.std.Y	- average by activity/subject of standard deviation of time domain signal for body acceleration jerk in Y coordinates 
+timeBodyAccelJerk.std.Z	- average by activity/subject of standard deviation of time domain signal for body acceleration jerk in Z coordinates 
+timeBodyGyro.std.X	- average by activity/subject of standard deviation of time domain signal for body gyro in X coordinates 
+timeBodyGyro.std.Y	- average by activity/subject of standard deviation of time domain signal for body gyro in Y coordinates 
+timeBodyGyro.std.Z	- average by activity/subject of standard deviation of time domain signal for body gyro in Z coordinates 
+timeBodyGyroJerk.std.X	- average by activity/subject of standard deviation of time domain signal for body gyro jerk in X coordinates 
+timeBodyGyroJerk.std.Y	- average by activity/subject of standard deviation of time domain signal for body gyro jerk in Y coordinates 
+timeBodyGyroJerk.std.Z	- average by activity/subject of standard deviation of time domain signal for body gyro jerk in Z coordinates 
+timeBodyAccelMag.std	- average by activity/subject of standard deviation of time domain signal for body acceleration magnitude
+timeGravityAccelMag.std	- average by activity/subject of standard deviation of time domain signal for gravity acceleration magnitude 
+timeBodyAccelJerkMag.std	- average by activity/subject of standard deviation of time domain signal for body acceleration jerk magnitude 
+timeBodyGyroMag.std	- average by activity/subject of standard deviation of time domain signal for body gyro magnitude 
+timeBodyGyroJerkMag.std	- average by activity/subject of standard deviation of time domain signal for body gyro jerk magnitude 
+freqBodyAccel.std.X	- average by activity/subject of standard deviation of frequency domain signal for body acceleration in X coordinates 
+freqBodyAccel.std.Y	- average by activity/subject of standard deviation of frequency domain signal for body acceleration in Y coordinates 
+freqBodyAccel.std.Z	- average by activity/subject of standard deviation of frequency domain signal for body acceleration in Z coordinates 
+freqBodyAccelJerk.std.X	- average by activity/subject of standard deviation of frequency domain signal for body acceleration jerk in X coordinates 
+freqBodyAccelJerk.std.Y	- average by activity/subject of standard deviation of frequency domain signal for body acceleration jerk in Y coordinates 
+freqBodyAccelJerk.std.Z	- average by activity/subject of standard deviation of frequency domain signal for body acceleration jerk in Z coordinates 
+freqBodyGyro.std.X	- average by activity/subject of standard deviation of frequency domain signal for body gyro in X coordinates 
+freqBodyGyro.std.Y	- average by activity/subject of standard deviation of frequency domain signal for body gyro in Y coordinates 
+freqBodyGyro.std.Z	- average by activity/subject of standard deviation of frequency domain signal for body gyro in Z coordinates 
+freqBodyAccelMag.std	- average by activity/subject of standard deviation of frequency domain signal for body acceleration magnitude 
+freqBodyAccelJerkMag.std	- average by activity/subject of standard deviation of frequency domain signal for body acceleration jerk magnitude 
+freqBodyGyroMag.std	- average by activity/subject of standard deviation of frequency domain signal for body gyro magnitude 
+freqBodyGyroJerkMag.std	- average by activity/subject of standard deviation of frequency domain signal for body gyro jerk magnitude 
