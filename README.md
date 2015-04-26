@@ -35,7 +35,7 @@ UCI HAR Dataset - Original UC Irvine dataset
 README.md - Readme markdown
 codebook.txt - codebook for output variables
 run_analysis.R - R script
-smartphone_activity.csv - Output dataset 
+smartphone_activity.txt - Output dataset 
 
 # Analysis Steps
 Data for this analysis is downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.  The R script run_analysis.R included in the github repository downloads the latest file from the location and extracts the zip file locally.  The script then loads the various datasets from the zip file into temporary variables.  The datasets are cleaned, removing illegal characters and renaming fields to improve readability.  The train and test dataset is then merged into one master dataset.  That dataframe is then melted and pivoted into one tidy dataset which has the average for every mean and standard deviation variable from the original dataset, by activity and subject.  
