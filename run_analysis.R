@@ -122,5 +122,5 @@
   combocast <- arrange(combocast, activity_name, subject)
 
 ## Export Tidy Dataset
-  write.csv(combocast, file = "smartphone_activity.csv")
+  write.table(combocast, file = "smartphone_activity.txt", row.name = FALSE)
   
